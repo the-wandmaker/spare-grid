@@ -1,4 +1,4 @@
-# Title
+# Spare-Grid Generator
 
 ## Usage
 
